@@ -1,0 +1,12 @@
+h1 {
+    font-size: 4em;
+    color: rgb(111, 22, 7);
+    text-align: center;
+    margin-top: 20%;
+}
+.hyperlink {
+    margin: auto;
+    text-align: right;
+    color: rgb(6, 12, 192);
+    text-decoration: none;
+}
